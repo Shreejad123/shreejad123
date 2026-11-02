@@ -2,9 +2,9 @@
 
 ### Frontend Developer | React.js | Next.js | JavaScript | TypeScript
 
-Frontend Developer with 4+ years of IT experience and hands-on experience building responsive, scalable web applications using React.js, Next.js, JavaScript, TypeScript, Redux, and REST APIs.
-
-I enjoy building user-focused interfaces, reusable components, dashboards, and responsive web applications while continuously improving my frontend development skills.
+Frontend Developer with around 2 years of frontend experience and 4+ years of overall IT experience, building responsive web applications using React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, HTML5, and CSS3.
+Core Strengths: Reusable Components • Responsive UI • REST API Integration • State Management • Authentication • CRUD • Performance Optimization • Jest
+Experienced in translating requirements and designs into clean, maintainable, user-focused interfaces, with strong debugging and software quality expertise.
 
 ### 🛠️ Tech Stack
 
